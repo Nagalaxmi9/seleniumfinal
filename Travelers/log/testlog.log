@@ -1,0 +1,105 @@
+2019-10-29 17:02:45,302 - flightTest -INFO - Registartion_Result
+2019-10-29 17:13:25,844 - Testcase2 -INFO - login_Result
+2019-10-29 17:14:55,887 - Testcase1 -INFO - Registartion_Result
+2019-10-29 17:27:29,064 - HotelTest -INFO - hotel_Result
+2019-10-29 17:33:53,126 - HotelTest -INFO - hotel_Result
+2019-10-30 11:33:36,700 - Testcase1 -INFO - Registartion_Result
+2019-10-30 11:34:00,851 - Testcase2 -INFO - login_Result
+2019-10-30 11:34:00,868 - Testcase2 -INFO - Login
+2019-10-30 11:34:23,695 - HotelTest -INFO - hotel_Result
+2019-10-30 11:34:53,460 - Testcase2 -INFO - login_Result
+2019-10-30 11:34:53,480 - Testcase2 -INFO - Login
+2019-10-30 11:36:09,280 - Testcase2 -INFO - Login
+2019-10-30 11:45:34,105 - flightTest -INFO - Flight_Result
+2019-10-30 11:52:13,003 - Testcase1 -INFO - Register
+2019-10-30 11:52:50,962 - Testcase1 -INFO - Register
+2019-10-30 11:53:46,908 - HotelTest -INFO - hotel_Result
+2019-10-30 11:53:46,925 - HotelTest -INFO - Hotels Results
+2019-10-30 11:54:39,532 - Testcase1 -INFO - Registartion_Result
+2019-10-30 11:54:39,545 - Testcase1 -INFO - Register
+2019-10-30 11:55:18,118 - Testcase2 -INFO - login_Result
+2019-10-30 11:55:18,139 - Testcase2 -INFO - Login
+2019-10-30 11:55:45,524 - HotelTest -INFO - hotel_Result
+2019-10-30 11:55:45,538 - HotelTest -INFO - Hotels Results
+2019-10-30 11:59:38,618 - flightTest -INFO - Flight_Result
+2019-10-30 11:59:38,690 - flightTest -INFO - Flights Results - From to MAA to DEL
+2019-10-30 12:00:34,926 - flightTest -INFO - Flight_Result
+2019-10-30 12:00:35,006 - flightTest -INFO - Flights Results - From to MAA to DEL
+2019-10-30 12:01:34,977 - flightTest -INFO - Flight_Result
+2019-10-30 12:01:35,301 - flightTest -INFO - Flights Results - From to MAA to DEL
+2019-10-30 12:10:13,789 - flightTest -INFO - Flight_Result
+2019-10-30 12:10:15,144 - flightTest -INFO - Flights Results - From to MAA to DEL
+2019-10-30 12:44:06,623 - flightTest -INFO - Flight_Result
+2019-10-30 12:44:06,652 - flightTest -INFO - Flights Results - From to MAA to DEL
+2019-10-30 12:45:35,804 - Testcase2 -INFO - login_Result
+2019-10-30 12:45:35,816 - Testcase2 -INFO - My Account
+2019-10-30 12:46:31,826 - Testcase2 -INFO - login_Result
+2019-10-30 12:46:31,832 - Testcase2 -INFO - My Account
+2019-10-30 12:47:30,882 - Testcase2 -INFO - login_Result
+2019-10-30 12:48:44,039 - Testcase1 -INFO - Registartion_Result
+2019-10-30 12:49:07,674 - Testcase2 -INFO - login_Result
+2019-10-30 12:49:28,774 - HotelTest -INFO - hotel_Result
+2019-10-30 13:05:32,459 - Testcase1 -INFO - Registartion_Result
+2019-10-30 13:07:51,708 - Testcase2 -INFO - login_Result
+2019-10-30 13:09:22,339 - HotelTest -INFO - hotel_Result
+2019-10-30 13:13:05,311 - Testcase1 -INFO - Registartion_Result
+2019-10-30 13:13:50,425 - Testcase1 -INFO - Registartion_Result
+2019-10-30 13:14:11,135 - Testcase2 -INFO - login_Result
+2019-10-30 13:14:57,061 - Testcase1 -INFO - Registartion_Result
+2019-10-30 13:15:19,992 - Testcase2 -INFO - login_Result
+2019-10-30 13:15:43,376 - HotelTest -INFO - hotel_Result
+2019-10-30 13:51:01,145 - flightTest -INFO - Flight_Result
+2019-10-30 13:54:21,758 - Testcase1 -INFO - Registartion_Result
+2019-10-30 13:55:33,974 - Testcase1 -INFO - Registartion_Result
+2019-10-30 13:55:54,590 - Testcase2 -INFO - login_Result
+2019-10-30 13:56:19,412 - HotelTest -INFO - hotel_Result
+2019-10-30 13:59:21,389 - HotelTest -INFO - hotel_Result
+2019-10-30 14:12:27,731 - Testcase1 -INFO - Registartion_Result
+2019-10-30 14:12:49,436 - Testcase2 -INFO - login_Result
+2019-10-30 14:13:11,083 - HotelTest -INFO - hotel_Result
+2019-10-30 14:13:38,420 - flightTest -INFO - Flight_Result
+2019-10-30 14:41:58,280 - HotelTest -INFO - hotel_Result
+2019-10-30 14:45:11,250 - HotelTest -INFO - hotel_Result
+2019-10-30 14:47:04,099 - Testcase2 -INFO - login_Result
+2019-10-30 14:49:45,163 - Testcase1 -INFO - Registartion_Result
+2019-10-30 14:50:12,863 - Testcase2 -INFO - login_Result
+2019-10-30 14:50:38,685 - HotelTest -INFO - hotel_Result
+2019-10-30 14:53:23,241 - Testcase1 -INFO - Registartion_Result
+2019-10-30 14:53:47,527 - Testcase2 -INFO - login_Result
+2019-10-30 14:54:29,666 - HotelTest -INFO - hotel_Result
+2019-10-30 15:03:03,381 - Testcase1 -INFO - Registartion_Result
+2019-10-30 15:03:29,325 - Testcase2 -INFO - login_Result
+2019-10-30 15:03:53,710 - HotelTest -INFO - hotel_Result
+2019-10-30 15:29:41,733 - flightTest -INFO - Flight_Result
+2019-10-30 15:31:46,390 - flightTest -INFO - Flight_Result
+2019-10-30 15:34:15,978 - flightTest -INFO - Flight_Result
+2019-10-30 15:50:25,243 - flightTest -INFO - Flight_Result
+2019-10-30 15:53:35,415 - Testcase1 -INFO - Registartion_Result
+2019-10-30 15:54:02,702 - Testcase2 -INFO - login_Result
+2019-10-30 15:54:22,411 - HotelTest -INFO - hotel_Result
+2019-10-30 15:54:48,622 - flightTest -INFO - Flight_Result
+2019-10-30 15:59:25,102 - Testcase1 -INFO - Registartion_Result
+2019-10-30 16:01:55,685 - Testcase2 -INFO - login_Result
+2019-10-30 16:02:18,399 - HotelTest -INFO - hotel_Result
+2019-10-30 16:02:43,453 - flightTest -INFO - Flight_Result
+2019-10-30 17:47:39,920 - flightTest -INFO - Flight_Result
+2019-10-30 17:49:56,083 - Testcase1 -INFO - Registartion_Result
+2019-10-30 17:50:23,424 - Testcase2 -INFO - login_Result
+2019-10-30 17:50:48,642 - HotelTest -INFO - hotel_Result
+2019-10-30 17:51:53,770 - flightTest -INFO - Flight_Result
+2019-10-31 10:55:42,555 - Testcase1 -INFO - Registartion_Result
+2019-10-31 10:56:07,918 - Testcase2 -INFO - login_Result
+2019-10-31 10:56:31,423 - HotelTest -INFO - hotel_Result
+2019-10-31 11:02:19,136 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:06:19,332 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:08:08,352 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:09:20,067 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:10:11,906 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:11:11,350 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:12:17,132 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:14:11,627 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:14:41,091 - Testcase2 -INFO - login_Result
+2019-10-31 11:40:37,628 - Testcase1 -INFO - Registartion_Result
+2019-10-31 11:40:59,966 - Testcase2 -INFO - login_Result
+2019-10-31 11:41:21,043 - HotelTest -INFO - hotel_Result
+2019-10-31 11:41:52,844 - HotelTest -INFO - hotel_Result
